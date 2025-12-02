@@ -1,6 +1,6 @@
 <div align="center">
 
- <h3 align="center">3D GSAP Animated Website</h3>
+ <h3 align="center">3D Animated Website GSAP</h3>
   <br />
     <img src="/public/image-for-readme.png" alt="3D_website" width="700">
   <br />
