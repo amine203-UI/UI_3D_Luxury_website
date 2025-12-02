@@ -103,7 +103,5 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
 👨‍💻 Author Amine Ould Medjeber Full-Stack Developer 
 [ouldmedjeberamine@gmail.com] 🌐 [www.linkedin.com/in/amine-medjeber]
