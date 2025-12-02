@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  ## <a name="introduction">🤖 Intro </a>
+  ## <p name="introduction">🤖 Intro </p>
 
 This project is a luxury animated website crafted to present high-end products with a modern and stylish interface.
 It uses GSAP animations to create dynamic motion effects, smooth transitions, and professional-level product reveals.
