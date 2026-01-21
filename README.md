@@ -1,107 +1,87 @@
 <div align="center">
+  <img src="/public/image-for-readme.png" alt="Luxury 3D Showcase Banner" width="800">
 
- <h3 align="center">3D Animated Website GSAP</h3>
-  <br />
-    <img src="/public/image-for-readme.png" alt="3D_website" width="700">
-  <br />
+  <h1 align="center">Luxe 3D: Cinematic Product Showcase</h1>
+
+  <p align="center">
+    A high-end, luxury-inspired digital experience built with <b>Next.js</b> and <b>GSAP</b> to deliver high-fidelity product reveals and smooth motion design.
+  </p>
 
   <div>
-    <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
-    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logoColor=white&logo=threedotjs&color=000000" alt="three.js" />
-    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logoColor=white&logo=greensock&color=88CE02" alt="greensock" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-Next.js_15-black?style=for-the-badge&logo=nextdotjs&color=000000" alt="nextjs" />
+    <img src="https://img.shields.io/badge/-GSAP-black?style=for-the-badge&logo=greensock&color=88CE02" alt="greensock" />
+    <img src="https://img.shields.io/badge/-Three_JS-black?style=for-the-badge&logo=threedotjs&color=000000" alt="three.js" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
   </div>
 
-  ## <p name="introduction">🤖 Intro </p>
+  <br />
+</div>
 
-This project is a luxury animated website crafted to present high-end products with a modern and stylish interface.
-It uses GSAP animations to create dynamic motion effects, smooth transitions, and professional-level product reveals.
+---
 
-The design takes inspiration from luxury brands, emphasizing minimalism, contrast, and high-quality visual assets. The result is a website that feels premium, fast, and engaging — perfect for showcasing perfumes, fashion items, cosmetics, jewelry, or any high-value product line.
+## 📖 Table of Contents
+* [Introduction](#introduction)
+* [Tech Stack](#tech-stack)
+* [Premium Features](#features)
+* [Quick Start](#quick-start)
+
+---
+
+## <a name="introduction">🤖 Introduction</a>
+
+**Luxe 3D** is a premium animated web platform crafted for high-value brands. By merging **minimalist aesthetics** with **complex GSAP motion logic**, this project transforms a standard landing page into a cinematic product journey. 
+
+Designed specifically for sectors like Haute Couture, Perfumery, and Fine Jewelry, it emphasizes high-contrast visuals, elegant typography, and buttery-smooth interactions that mirror the experience of a luxury physical boutique.
+
+---
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
-- Next.js
-- React.js
-- Three.js
-- GSAP (Greensock)
-- Vite
-- Tailwind CSS
+* **Framework:** Next.js 15 (App Router) & React.js
+* **Motion Engine:** GSAP (GreenSock Animation Platform)
+* **3D Elements:** Three.js for realistic depth and perspective
+* **Styling:** Tailwind CSS (Luxury Design Tokens)
+* **Build Tool:** Vite / Next-Turbo
 
-## <a name="features">🔋 Features</a>
+---
 
-🎞️ Cinematic GSAP Animations
+## <a name="features">🔋 Premium Features</a>
 
-Smooth product reveals
+### 🎞️ Cinematic Motion Design
+* **Fluid Reveals:** Multi-stage entry animations for products and typography.
+* **Depth of Field:** Parallax effects that create a high-end 3D sense of space.
+* **Micro-Interactions:** Subtle hover and scroll feedback that enhances user engagement without clutter.
 
-Parallax effects and scroll-triggered animations
+### 🖼️ 3D Visual Narrative
+* **Angled Perspectives:** Dynamic product placement with realistic highlights and soft shadows.
+* **Image Masking:** Sophisticated transitions between lifestyle shots and technical product data.
+* **Optimized Assets:** High-resolution visuals delivered with Next.js image optimization for zero lag.
 
-Professional micro-interactions for UI elements
+### 💎 Design Excellence
+* **Luxury UI/UX:** A focus on "white space," balanced composition, and premium font pairings.
+* **Cross-Device Elegance:** A fully responsive architecture that maintains visual weight on every screen size.
+* **Modern Architecture:** Scalable folder structure optimized for easy expansion into a full e-commerce catalog.
 
-🖼️ 3D-Style Product Presentation
-
-Hero section with angled bottle displays
-
-Realistic shadows, reflections, and highlights
-
-Ultra-clean luxury-inspired layout
-
-📱 Fully Responsive
-
-Pixel-perfect on desktop, tablet, and mobile
-
-Fluid scaling of text, images, and animations
-
-⚡ High Performance
-
-Optimized images
-
-Next.js Server Components
-
-Lazy loading for animations & assets
-
-🎨 Premium UI/UX
-
-Elegant typography
-
-Clean spacing and balanced composition
-
-Brand identity suitable for luxury markets
-
-🌙 Modern Development Architecture
-
-Clean folder structure
-
-Reusable components
-
-Easily extendable for e-commerce or product catalogs
+---
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
-Follow these steps to set up the project locally on your machine.
+Experience the luxury showcase locally by following these steps.
 
-
-
-**Cloning the Repository**
-
+**1. Clone the Repository**
 ```bash
-git clone https://github.com/amine203-UI/UI_3D_Nimbus_Keyboards.git
-cd iphone-doc
+git clone [https://github.com/amine203-UI/UI_3D_Nimbus_Keyboards.git](https://github.com/amine203-UI/UI_3D_Nimbus_Keyboards.git)
+cd UI_3D_Nimbus_Keyboards
+
+```
+2. Install Project Dependencies
 ```
 
-**Installation**
-
-Install the project dependencies using npm:
-
-```bash
 npm install
 ```
-
-**Running the Project**
-
-```bash
-npm run dev
+3. Launch the Experience
 ```
 
-👨‍💻 Author Amine Ould Medjeber Full-Stack Developer 
-[ouldmedjeberamine@gmail.com] 🌐 [www.linkedin.com/in/amine-medjeber]
+npm run dev
+
+```
